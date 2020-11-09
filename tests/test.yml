@@ -1,0 +1,5 @@
+---
+- hosts: localhost
+  remote_user: root
+  roles:
+    - bilalcaliskan.kubernetes_the_hard_way
